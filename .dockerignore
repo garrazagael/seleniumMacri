@@ -1,0 +1,8 @@
+# Excluir archivos y carpetas específicas de la imagen de Docker
+
+# Carpeta node_modules que contiene dependencias de Node.js
+node_modules
+
+# Archivos de construcción generados por Angular CLI
+dist
+
