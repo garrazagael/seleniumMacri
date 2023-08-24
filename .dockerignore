@@ -1,0 +1,22 @@
+# Excluir archivos y carpetas específicas de la imagen de Docker
+
+# Carpeta node_modules que contiene dependencias de Node.js
+node_modules
+
+# Archivos de construcción generados por Angular CLI
+dist
+
+# Archivo de configuración de TypeScript
+tsconfig.json
+
+# Archivo de configuración de Angular CLI
+.angular-cli.json
+
+# Archivos de respaldo (por ejemplo, copias de seguridad de código)
+*.bak
+
+# Archivos temporales y caché
+*.log
+*.tmp
+*.swp
+*.swo
